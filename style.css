@@ -1,0 +1,106 @@
+.profile-picture{
+ border-radius: 100%      
+}
+
+html, body{
+    display: flex;
+    align-items: center ;
+    height: 100%;
+    margin:0px;
+    padding:0px;
+}
+
+.wrapper{
+    background-color: rgb(249, 215, 221);
+
+    max-width: 100%;
+    display:flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.left, .right {
+    background-color: lightpink rgb(255, 213, 238);
+
+    margin: 5px;
+    max-width:100%;
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.left{
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-picture{
+    border-radius: 50%
+}
+
+html, body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 5px;
+    padding:0px;
+
+    font-family:'Open Sans', sans-serif;
+}
+
+.name {
+    font-family:'Roboto', sans-serif;
+    margin-bottom: 2px;
+}
+
+.profile-picture
+
+.body {
+    background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, lightpink(170, 221, 235, 1) 100%);
+}
+
+<html>
+  <head>
+      <style>
+        table.
+        th.
+        td{
+          border: 5px solid black;
+        }
+          </style>
+        </head>
+        <body>
+          <table style="width:100%">
+            <tr>
+            <th>Course Name</th>
+            <th>Section # </th>
+          </tr>
+          <tr>
+            <td>English 205 </td>
+            <td>14040</td>
+        </tr>
+        <tr>
+            <td>IS 312</td>
+            <td>13506</td>
+        </tr>
+        <tr>
+            <td>MATH 103</td>
+            <td>17728</td>
+        </tr>
+        <tr>
+            <td>Math 103L</td>
+            <td> 17581</td>
+        </tr>
+        <tr>
+            <td>PHIL 305</td>
+            <td>14085</td>
+        </tr>
+        <tr>
+            <td>UNIV 301</td>
+            <td>20676</td>
+        </tr>
+     </table>
+ </body>
+</html>
